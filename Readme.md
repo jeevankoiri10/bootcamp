@@ -8,6 +8,7 @@ Learnt about the HTML
 - center tag is depricated will be used inside style later on
 - svg images are used in the websites. logo.svg, landing.svg, landing page has a button "Sign up for free"; only first letter should be capital all other in any place on the web is not capital, only first letter is capital. 
 - learnt to use "  `" and "```" in the readme file 
-- learnt about the badges used by the professionals in readme file from `https://shields.io/`
+- learnt about the badges used by the professionals in readme file from `https://shields.io/` like  this one: ![This is a Static Badge, made using shields.io](https://img.shields.io/badge/:badgeContent)
+
 
 
