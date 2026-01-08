@@ -1,7 +1,7 @@
 # HTML Learnings 
 Learnt about the HTML
+- HTML Defines the structure of your website. - Jargons: html tags and attributes
 - built the zerodha landing page in warmup/html/index.html
-- learnt about html tags and attributes
 - learnt about the span and div. span takes least space as possible
 - some common tags like `<html>` , `<head>`, `<img src="">`, `<a href="">`, `</a>`
 - metadata tags `<title>`
@@ -10,5 +10,4 @@ Learnt about the HTML
 - learnt to use "  `" and "```" in the readme file 
 - learnt about the badges used by the professionals in readme file from `https://shields.io/`
 
-#
 
